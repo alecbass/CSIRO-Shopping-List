@@ -64,3 +64,6 @@ buck-out/
 
 # VSCode
 *.code-workspace
+
+# Yarn
+.yarn
